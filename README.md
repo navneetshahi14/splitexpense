@@ -1,1 +1,1 @@
-# splitexpense-backend
+# splitexpense
